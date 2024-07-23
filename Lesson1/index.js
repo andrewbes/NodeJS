@@ -34,3 +34,4 @@ product.getReviews().forEach(function (review) {
     console.log("rating:", review.rating, "}")
 });
 console.log(product.getImages());
+//TODO:
